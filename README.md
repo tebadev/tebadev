@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hola, soy Esteban 👋
 
-<!--
-**tebadev/tebadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador autodidacta por pura pasión. Me muevo en **Linux** (Arch, por supuesto) y disfruto construyendo software desde la terminal. Mi enfoque está en la lógica del **backend**, la automatización y herramientas de línea de comandos eficientes y minimalistas.
 
-Here are some ideas to get you started:
+#### 🛠️ Mi Stack & Entorno
+* **Lenguajes:** Python, Bash
+* **Sistema:** Arch Linux, Bash, Neovim, tmux
+* **Filosofía:** Código limpio, minimalista y con algún que otro *Easter egg* oculto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Lo que suelo construir
+* Utilidades de terminal para organizar flujos de trabajo (como gestores de marcadores y temporizadores modulares).
+* Scripts de automatización y monitoreo de sistemas con `inotify` y `systemd`.
+
+---
+⚡ *“El mejor código es el que se siente natural de usar y escribir.”*
