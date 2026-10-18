@@ -1,4 +1,4 @@
-
+` 🔴 🟡 🟢 TERMINAL `
 ```lua
 esteban@archlinux:~$ about_me.sh 
 
