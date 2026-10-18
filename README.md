@@ -9,7 +9,7 @@ esteban@archlinux:~$ about_me.sh
 > SPECIALTY:		'Backend, CLI tools, and system automation'
 > STACK:			['Python', 'Bash', 'Linux']
 > FOCUS:		    'Building robust software, optimization scripts, and terminal utilities.'
----------------------------------------
+---------------------------------------+ }
 esteban@archlinux:~$ _
 ```
 
