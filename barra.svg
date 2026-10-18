@@ -1,7 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="40" viewBox="0 0 800 40">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="260" viewBox="0 0 800 260">
+  <!-- Fondo del cuerpo -->
+  <rect width="800" height="260" rx="10" fill="#1e1d2b"/>
+  <!-- Barra de título -->
   <path d="M0 40V10a10 10 0 0 1 10-10h780a10 10 0 0 1 10 10v30z" fill="#2b2a3a"/>
   <circle cx="24" cy="20" r="7" fill="#c3a6ff"/>
   <circle cx="48" cy="20" r="7" fill="#9ccfff"/>
   <circle cx="72" cy="20" r="7" fill="#a8e6b8"/>
   <text x="400" y="25" text-anchor="middle" font-family="monospace" font-size="15" fill="#e6e1ff">Terminal</text>
+
+  <!-- Contenido -->
+  <g font-family="monospace" font-size="16">
+    <text x="24" y="80" fill="#a8e6b8">$ <tspan fill="#e6e1ff">whoami</tspan></text>
+    <text x="24" y="106" fill="#9ccfff">tu-nombre</text>
+    <text x="24" y="146" fill="#a8e6b8">$ <tspan fill="#e6e1ff">cat skills.txt</tspan></text>
+    <text x="24" y="172" fill="#c3a6ff">Python · JavaScript · HTML · CSS</text>
+    <text x="24" y="212" fill="#a8e6b8">$ <tspan fill="#e6e1ff">_</tspan></text>
+  </g>
 </svg>
