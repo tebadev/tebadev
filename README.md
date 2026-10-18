@@ -1,5 +1,5 @@
 
-```svg
+```ini
 esteban@archlinux:~$ about_me.sh 
 
 # HELLO! - I'm Esteban 
