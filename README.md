@@ -11,6 +11,6 @@ esteban@archlinux:~$ about_me.sh
 > FOCUS:		    'Building robust software, optimization scripts, and terminal utilities.'
 
 esteban@archlinux:~$ _
-}
+{}
 ```
 
