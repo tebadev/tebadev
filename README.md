@@ -4,7 +4,7 @@ esteban@archlinux:~$ about_me.sh
 
 # HELLO! - I'm Esteban 
 ---------------------------------------
-> ROL:				'Backend & DevOps Developer'
+> ROL:				"Backend & DevOps Developer"
 > DESCRIPTION:		'Focused on building efficientsolutions in Linux environments'
 > SPECIALTY:		'Backend, CLI tools, and system automation'
 > STACK:			['Python', 'Bash', 'Linux']
