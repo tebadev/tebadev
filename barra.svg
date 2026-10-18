@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="40" viewBox="0 0 800 40">
+  <path d="M0 40V10a10 10 0 0 1 10-10h780a10 10 0 0 1 10 10v30z" fill="#2b2a3a"/>
+  <circle cx="24" cy="20" r="7" fill="#c3a6ff"/>
+  <circle cx="48" cy="20" r="7" fill="#9ccfff"/>
+  <circle cx="72" cy="20" r="7" fill="#a8e6b8"/>
+  <text x="400" y="25" text-anchor="middle" font-family="monospace" font-size="15" fill="#e6e1ff">Terminal</text>
+</svg>
