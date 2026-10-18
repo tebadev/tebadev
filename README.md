@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="barra.svg" width="100%" alt="Terminal">
+</p>
 
 ```lua
 esteban@archlinux:~$ about_me.sh 
