@@ -1,25 +1,15 @@
-<table width="100%">
-<tr>
-<td>
-
-🔴 🟡 🟢 &nbsp;&nbsp; **esteban@linux-arch:~**
-
-</td>
-</tr>
-<tr>
-<td>
 
 ```yaml
-# Hola, soy Esteban 👋
+esteban@archlinux:~$ about_me.sh 
 
-rol: "Desarrollador Backend & DevOps"
-descripcion: "Centrado en la creación de soluciones eficientes en entornos Linux"
+# HELLO! - I'm Esteban 
+---------------------------------------
+> ROL:				Backend & DevOps Developer
+> DESCRIPTION:		Focused on building efficientsolutions in Linux environments
+> SPECIALTY:		Backend, CLI tools, and system automation
+> STACK:			[Python, Bash, Linux]
+> FOCUS:		    Building robust software, optimization scripts, and terminal utilities. 
 
-especialidad: "Backend, herramientas CLI y automatización de sistemas"
-stack: [Python, Bash, Linux]
-enfoque: "Construcción de software robusto, scripts de optimización y utilidades de terminal orientadas a simplificar flujos de trabajo"
+esteban@archlinux:~$ _
 ```
 
-</td>
-</tr>
-</table>
