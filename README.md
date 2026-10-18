@@ -1,5 +1,5 @@
 
-```toml
+```xml
 esteban@archlinux:~$ about_me.sh 
 
 # HELLO! - I'm Esteban 
